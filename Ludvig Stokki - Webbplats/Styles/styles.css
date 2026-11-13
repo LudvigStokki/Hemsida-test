@@ -1,0 +1,19 @@
+body {
+color: white;
+background-color: green
+}
+
+img {width: 35%;
+height: 35%;
+}
+
+
+#bild-hemskärm {
+display: flex;
+justify-content: center;
+}
+
+.mer-info {
+color: white;
+text-align: center
+}
